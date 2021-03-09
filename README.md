@@ -6,3 +6,6 @@ Indoor Outdoor Classification using VGG16 model
 
 ### Result indoor image
 ![indoor](https://github.com/vishalbpatil1/Indoor_outdoor_classification-VGG16-/blob/main/Screenshot%20(154).png)
+
+### classification report
+![report](https://github.com/vishalbpatil1/Indoor_outdoor_classification-VGG16-/blob/main/classification%20report.png)
